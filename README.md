@@ -1,3 +1,3 @@
 # Internet-Servis-Saglayici-Otomasyonu
 E-R Diyagramını daha iyi bir çözünülürkte incelemek için lütfen resme tıklayınız.
-![E-R Diyagrami](https://github.com/user-attachments/assets/19c42d74-0875-4331-8fc5-a7348f752f18)
+![son hali](https://github.com/user-attachments/assets/5cb40733-0177-4430-90cd-b53fe1885295)
